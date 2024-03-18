@@ -1,6 +1,6 @@
 # My Web Development Practice Repository
 
-This repository contains HTML files created during my web development practice sessions. These files consist of basic HTML code learned from a web development course. I may add more files to this repository as I continue practicing.
+This repository contains HTML files created during my web development practice sessions. These files consist of basic HTML code learned from a web development course. I may add more files to this repository as I continue practising.
 
 
 ## Usage
